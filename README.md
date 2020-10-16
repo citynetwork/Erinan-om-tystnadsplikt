@@ -1,8 +1,7 @@
 # Erinran om tystnadsplikt och samtycke till registerkontroll
 
 ## Underskrift
-<!---
-Jag, <ditt namn> lovar på heder och samvete att jag blivit informerad om innebörden av tystnadsplikt och potentiella påföljder vid brott mot tystnadsplikten. 
+Jag, Jane Doe (19730101-9000), lovar på heder och samvete att jag blivit informerad om innebörden av tystnadsplikt och potentiella påföljder vid brott mot tystnadsplikten. 
 
 Jag är införstådd att felaktigt underteckna denna erinran är att betrakta som en osann försäkran. 
 
@@ -10,7 +9,10 @@ Jag förbinder mig att iaktta den lagstadgade tystnadsplikten avseende säkerhet
 
 **English translation**
 I promise, on my honour, that I have been informed of the meaning of the obligation of confidentiality and of potential penalties for breaches of confidentiality. I am aware that erroneously signing this reminder is regarded as an Untrue Statement. I commit to complying with the statutory confidentiality of classified information and agreeing to the above register verification and, where appropriate, a specific personal inquiry.
---->  
+
+![Jane Doe signature](./jane_doe_signature.jpg)
+
+Stockholm the 16th of October 2020
 
 ```
 
