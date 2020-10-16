@@ -5,10 +5,10 @@ Jag, Jane Doe (19730101-9000), lovar på heder och samvete att jag blivit inform
 
 Jag är införstådd att felaktigt underteckna denna erinran är att betrakta som en osann försäkran. 
 
-Jag förbinder mig att iaktta den lagstadgade tystnadsplikten avseende säkerhetsskyddsklassificerade uppgifter och samtycker till ovanstående registerkontroll och, i förekommande fall, särskild personutredning.
+Jag förbinder mig att iaktta den lagstadgade tystnadsplikten avseende säkerhetsskyddsklassificerade uppgifter och samtycker till nedanstående registerkontroll och, i förekommande fall, särskild personutredning.
 
 **English translation**
-I promise, on my honour, that I have been informed of the meaning of the obligation of confidentiality and of potential penalties for breaches of confidentiality. I am aware that erroneously signing this reminder is regarded as an Untrue Statement. I commit to complying with the statutory confidentiality of classified information and agreeing to the above register verification and, where appropriate, a specific personal inquiry.
+I promise, on my honour, that I have been informed of the meaning of the obligation of confidentiality and of potential penalties for breaches of confidentiality. I am aware that erroneously signing this reminder is regarded as an Untrue Statement. I commit to complying with the statutory confidentiality of classified information and agreeing to the below register verification and, where appropriate, a specific personal inquiry.
 
 ![Jane Doe signature](./jane_doe_signature.jpg)
 
