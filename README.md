@@ -21,14 +21,16 @@ Stockholm the 16th of October 2020
 ```
 
 ## Information om innehåll och bevittnande av namnteckning
-<!---
-Jag, <vittnets namn> lovar på heder och samvete att den som anges ovan har informerats om innehållet i denna skrift och intygar riktigheten av ovanstående egenhändiga namnteckning.  
+Jag, Willy Witness (19650101-9111), lovar på heder och samvete att den som anges ovan har informerats om innehållet i denna skrift och intygar riktigheten av ovanstående egenhändiga namnteckning.  
 
 Jag är medveten om att felaktigt signera detta bevittnade är att betrakta som en osann försäkran.
 
 **English translation**
 The undersigned promises on his honour that the foregoing has been informed of the contents of this publication and certifies the accuracy of the above mentioned self signature. The undersigned is aware that erroneously signing this witnessing is regarded as an Untrue Statement.
---->  
+
+![Willy Witness signature](./willy_witness_signature.jpg)
+
+Stockholm the 16th of October 2020
 
 ```
 
