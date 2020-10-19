@@ -216,4 +216,95 @@ En särskild personutredning ska göras vid en registerkontroll som avser sådan
 
 Utredningen ska omfatta en undersökning av den kontrollerades ekonomiska förhållanden. I övrigt ska utredningen ha den omfattning som behövs.  
 
+``` 
 
+English translation
+
+``` 
+
+## Definitions, English translation
+**Disclaimer! The legally binding and correct language is the Swedish texts. This is just for information.**
+
+### The Swedish Penal Code Chapter 15, On Perjury, False Prosecution and Other Untrue Statements
+##### Section 10
+A person who in a written deposition which according to law or statute is made under oath or on one's faith and honour or like affirmation, gives untrue information or withholds the truth, shall, if the act jeopardises proof, be sentenced for untrue affirmation to a fine or imprisonment for at most six months or, if the crime is gross, imprisonment for at most two years. 
+
+If such action is due to gross carelessness, a sentence to a fine or imprisonment for at most six months shall be imposed for careless affirmation.  
+
+### The Swedish Penal Code Chapter 19, On Crimes against the Security of the Realm
+##### Section 1
+A person who with the intent that the Realm or a part thereof, by violent or otherwise illegal means or with foreign aid, be placed under foreign domination or made dependent on a foreign power, or that a part of the Realm be thus torn loose, takes action which involves danger that such intent be realised, shall be sentenced for high treason to imprisonment for ten years or for life or, if the danger was slight, for at least four and at most ten years. 
+
+A person who, with the intent that a measure or decision of the Head of State, the Government, Parliament or the supreme judicial bodies be coerced or obstructed with foreign aid, engages in an act involving a danger of this occurring, shall also be sentenced for high treason. (Law 1974\:565)  
+
+##### Section 2
+A person who by violent means or foreign aid causes a danger of the Realm being involved in war or other hostilities, shall, unless it is high treason, be sentenced for instigating war to imprisonment for at least two and at most eight years.  
+
+##### Section 3
+A person who has been commissioned to negotiate with a foreign power on behalf of the Realm or otherwise to protect the concerns of the Realm in dealings with someone who represents the interests of a foreign power and misuses his authority to represent the Realm or otherwise his position of trust and thereby causes the Realm considerable harm, shall be sentenced for disloyalty in negotiation with a foreign power to imprisonment for a fixed term of at least two and at most ten years, or for life.  
+
+##### Section 4
+A Swedish citizen who, without permission from the Government or a person designated by the Government, allows himself to be used as an agent of a foreign power in a diplomatic matter which concerns the Realm, and also anyone who in the alleged capacity of an authorised agent enters into negotiation about such a matter with someone who represents the interests of a foreign power, shall be sentenced for arbitrary conduct in negotiation with a foreign power to imprisonment for at most two years, or if the Realm was at war, for at most four years.  
+
+If the crime jeopardised the Realm's right of self-determination or its peaceful relations with a foreign power, imprisonment for at least one and at most six years shall be imposed or, if the Realm was at war, for a fixed term of at least four and at most ten years, or for life. (Law 1976\:509)  
+
+##### Section 5
+A person who, in order to aid a foreign power, without authorisation obtains, transmits, gives or otherwise reveals information concerning a defence facility, arms, supplies, imports, exports, means of production, negotiations, decisions or other conditions, the disclosure of which to a foreign power can cause harm to the total defence of the Realm, or otherwise to the security of the Realm, shall be sentenced, whether the information is correct or not, for espionage to imprisonment for at most six years. This also applies if person with the intent here described, produces or takes possession of a writing, drawing or other object containing such information without authority. (Law 1981\:1165)  
+
+##### Section 6
+If a crime referred to in Section 5 is regarded as gross, imprisonment for a fixed term of at least four and at most ten years, or for life, shall be imposed for gross espionage. In assessing whether the crime is gross, special attention shall be paid to whether the act was of an especially dangerous nature in view of an ongoing war or concerned matters of great importance or whether the perpetrator disclosed something entrusted to him by reason of his position in public or private service.  
+
+##### Section 7
+A person who, without intent to aid a foreign power, without authority obtains, transmits, gives or reveals information concerning matters of a secret nature, the disclosure of which to a foreign power can cause harm to the defence of the Realm or to the maintenance of necessary supplies to the people during war or during extraordinary conditions caused by war, or otherwise to the security of the Realm, shall be sentenced, whether the information is correct or not, to unauthorised dealing with secret information to a fine or imprisonment for at most two years. (Law 1981\:1165)  
+
+##### Section 8
+If a crime under the provisions of Section 7 is regarded as gross, imprisonment for at most four years shall be imposed for gross unauthorised dealing with secret information. In assessing whether the crime is gross special attention shall be paid to whether the act involved assistance of a foreign power or was of an especially dangerous nature having regard to an ongoing war, or related to a matter of great significance, or whether the accused disclosed what had been confided to him by reason of public or private service. (Law 1976\:509)  
+
+##### Section 9
+A person who through gross carelessness transmits, gives or reveals information described in Section 7 shall be sentenced to a fine or imprisonment for at most six months or, if the Realm was at war, to a fine or imprisonment for at most two years. (Law 1981\:1165)  
+
+##### Section 10
+A person who, with the intent of aiding a foreign power, conducts activities designed to acquire information relating to military or other matters, the revelation of which to that foreign power could cause harm to the security of another foreign power, or lends assistance not solely of an incidental nature to such activities in the Realm, shall be sentenced for unlawful intelligence activities to a fine or imprisonment for at most one year. 
+
+A person who, with the intent of aiding a foreign power, secretly or by fraudulent means conducts in the Realm activities designed to acquire information concerning the personal circumstances of another individual or lends assistance not solely of an incidental nature to such activities, shall likewise be sentenced for unlawful intelligence activities. If a crime under this Section is gross, imprisonment for at least six months and at most four years shall be imposed. (Law 1993\:207)  
+
+##### Section 11
+If an act referred to in Chapter 3 or 4 involves an affront to a foreign power by an outrage against the foreign power's Head of State or its representative in this Realm, imprisonment for at most two years shall be imposed, if the crime otherwise is subject to imprisonment for at most six months, and for at most four years if the crime is otherwise subject to imprisonment for more than six months and at most two years. These provisions shall have corresponding application if a foreign power is affronted because someone intrudes into premises occupied by its representatives or causes damage to such premises or to property therein contained. (Law 1970\:225)  
+
+##### Section 12
+A person who within this Realm and without the authority of the Government recruits people for foreign military service or comparable service, or induces people to leave the country unlawfully in order to enter such service, shall be sentenced for unlawful recruiting to a fine or imprisonment for at most six months or, if the Realm was at war, to imprisonment for at most two years. (Law 1974\:565)  
+
+##### Section 13
+A person who accepts money or other property from a foreign power or from any person abroad who is acting in the interest of a foreign power in order, through the publication or dissemination of writings or otherwise, to influence public opinion in a matter affecting any of the foundations of the Realm’s form of government or in any question of significance for the security of the Realm and which it lies in the power of Parliament or the Government to decide on, shall be sentenced for acceptance of foreign assistance to imprisonment for at most two years. (Law 1981\:1165)  
+
+##### Section 14
+Attempt, preparation or conspiracy to commit high treason, disloyalty in negotiation with foreign power, espionage, gross espionage, gross unauthorised dealing with secret information, or unlawful intelligence activity, as well as attempt or preparation to engage in unauthorised dealing with secret information, shall be in accordance with the provisions of Chapter 23. Entering into contact with a foreign power for the purpose of preparing, making possible or facilitating high treason shall also be regarded as conspiracy to commit such crime. A person who fails to reveal high treason, disloyalty in negotiation with a foreign power, espionage, gross espionage or gross unauthorised dealing with secret information, shall also be punished in accordance with the provisions of Chapter 23 and shall be so liable even though he did not realise but should have realised that a crime was being committed. (Law 1976\:509)  
+
+##### Section 15
+A person who, in view of what is known to him by reason of warnings given or otherwise, should have realised that high treason, disloyalty in negotiation with a foreign power, espionage, gross espionage or gross unauthorised dealing with secret information is taking place, and contributes to the act, shall be punishable as an accessory. However, no more severe punishment than imprisonment for two years may be imposed. (Law 1976\:509)  
+
+##### Section 16
+Unlawful intelligence activity, acceptance of foreign assistance or unlawful recruiting, or attempt, preparation or conspiracy to undertake unlawful intelligence activity, may not be prosecuted by a public prosecutor without authorisation by the Government. An act referred to in Chapters 3 or 4 and involving such an affront to a foreign power as is referred to in Section 11, as well as attempt, preparation or conspiracy to commit or failure to reveal such act, may not be prosecuted by a public prosecutor without authorisation by the Government or a person designated by the Government. (Law 1981\:1165)  
+
+## The Swedish Penal Code Chapter 20, On Misuse of Office, etc.
+##### Section 3
+A person who discloses information which he is duty-bound by Law or other statutory instrument or by order or provision issued under a Law or statutory instrument to keep secret, or if he unlawfully makes use of such secret, he shall, if the act is not otherwise specially subject to punishment, be sentenced for breach of professional confidentiality to a fine or imprisonment for at most one year.  
+
+A person who through carelessness commits an act described in the first paragraph shall be sentenced to a fine. In petty cases, however, punishment shall not be imposed. (Law 1980\:102)  
+
+## The Swedish Protective Security Act Chapter 1, The scope of the act
+### What is meant by Protective Security
+##### Section 2
+By Protective Security is meant the protection of security-sensitive activities against espionage, sabotage, terrorist activities and other crimes that may threaten the business as well as protection in other cases of classified information.
+
+Classified information refers to information that relates to security-sensitive activities and is therefore covered by confidentiality under the Public and Secrecy Act (2009\:400) or which would have been covered by confidentiality under that law, if it had been applicable.  
+
+
+## The Swedish Protective Security Act Chapter 3, Background security assessment
+### Register Verification
+##### Section 13
+Register Verification means that information is retrieved from police registries that is covered by the following Swedish laws: (1998\:620), (1998\:621), (2018\:1693) and (2018\:1715).  
+
+### Special Personal Inquiry
+##### Section 17
+A special personal investigation shall be made during a register verification relating to such employment or other participation in activities that have been graded security class 1 or 2. The investigation shall include an examination of the audited financial conditions. Otherwise, the investigation shall have the necessary scope.
